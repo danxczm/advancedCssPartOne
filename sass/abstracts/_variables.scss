@@ -23,3 +23,49 @@ $default-font-size: 1.6rem;
 $grid-width: 114rem;
 $gutter-vertical: 8rem;
 $gutter-horizontal: 6rem;
+
+$gutter-vertical-small: 6rem;
+
+// SHADOW
+$shadow-dark: 0 2rem 6rem rgba($color-black, .3);
+$shadow-light: 0 2rem 5rem rgba($color-black, .06);
+
+// BREAKPOINTS
+$bp-largest: 75em; // 1200px / 16px = 75em
+$bp-large: 68.75em; // 1100px
+$bp-medium: 56.25em; // 900px
+$bp-small: 37.5em; // 600px
+$bp-smallest: 31.25em; // 500px
+
+// BORDER RADIUS
+$border-radius-default: 3px;
+$border-radius-full: 50%;
+
+// TRANSITION
+$transition-default: all .2s ease-in-out;
+
+// Z-INDEX
+$z-index-1: 1;
+$z-index-2: 2;
+$z-index-3: 3;
+
+// FONT WEIGHT
+$font-weight-light: 300;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+// OPACITY
+$opacity-0: 0;
+$opacity-1: .1;
+$opacity-2: .2;
+$opacity-3: .3;
+$opacity-4: .4;
+$opacity-5: .5;
+$opacity-6: .6;
+$opacity-7: .7;
+$opacity-8: .8;
+$opacity-9: .9;
+$opacity-10: 1;
+
+// LINE HEIGHT
+$line-height-default: 1.6;
